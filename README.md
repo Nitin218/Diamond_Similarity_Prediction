@@ -30,4 +30,6 @@ The goal of the Diamond Similarity Prediction project is to develop a predictive
   6. Predict Similarity Score: The predictive model analyzes the extracted features and applies machine learning algorithms to predict the similarity score between the uploaded diamond and others in the database. The similarity score indicates the degree of resemblance or similarity between the uploaded diamond and others in terms of their features and characteristics.
   7. View Results: The system displays diamonds with similar scores, indicating the degree of similarity to the uploaded diamond. Users can review the list of similar diamonds along with their respective similarity scores to make informed decisions regarding diamond selection or comparison.
 
+**Click on the image below to see the video:**
+
 [![Diamond_Similarity_Prediction](http://img.youtube.com/vi/6rrJeIMjGw4/0.jpg)](http://www.youtube.com/watch?v=6rrJeIMjGw4 "Diamond_Similarity_Prediction") 
